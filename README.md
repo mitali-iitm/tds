@@ -3,6 +3,6 @@ Data is huge. You need tools to deal with it. We'll deal with those tools in dep
 
 
 ## Navigation
-* About
+* [about](About)
 * Discovering Data
 * 
